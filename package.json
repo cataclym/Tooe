@@ -1,0 +1,16 @@
+{
+  "name": "tooe",
+  "version": "1.0.0",
+  "description": "TS bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TS",
+    "Bot",
+    "Discord"
+  ],
+  "author": "Cata",
+  "license": "ISC"
+}
