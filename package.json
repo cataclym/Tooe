@@ -12,5 +12,8 @@
     "Discord"
   ],
   "author": "Cata",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "detritus-client": "^0.11.1"
+  }
 }
